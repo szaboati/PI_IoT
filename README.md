@@ -1,4 +1,4 @@
-Raspberry Pi LED Vezérlés – Telepítési Útmutató
+# Raspberry Pi LED Vezérlés – Telepítési Útmutató
 
 Ez az útmutató bemutatja, hogyan telepítsd és futtasd a LED vezérlő projektet Raspberry Pi-n.
 -   Másold fel a letöltött ZIP fájlt a Raspberry Pi-re (például scp segítségével).
