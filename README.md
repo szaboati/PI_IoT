@@ -9,7 +9,8 @@ Ez az útmutató bemutatja, hogyan telepítsd és futtasd a LED vezérlő projek
 -  Nyisd meg a böngészőben a Raspberry Pi IP címét: http:///.
 -  A webes felületen vezérelheted a LED-eket (Bekapcsol/Kikapcsol gombok).
 
-Megjegyzés: A projekt a GPIO lábak vezérléséhez az rpio könyvtárat használja, ezért a futtatáshoz
+Megjegyzés: 
+- A projekt a GPIO lábak vezérléséhez az rpio könyvtárat használja, ezért a futtatáshoz
 rendszergazdai jogosultság szükséges
 - scp -r raspi-led-control pi@<IP_CÍM>:/home/pi/
 - unzip raspi-led-control.zip
